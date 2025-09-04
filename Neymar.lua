@@ -291,11 +291,11 @@ MinimizeButton({
 
 local Main = MakeTab({Name = "الــمعلومات-"})
 AddDiscord(Main, {
-    DiscordLink = "https://t.me/kyScript1 ",
+    DiscordLink = "https://t.me/ney_marr77 ",
     DiscordIcon = "rbxassetid://73962170939481",
     DiscordTitle = "  قناتي تليجرام "  })
 AddDiscord(Main, {
-    DiscordLink = "https://t.me/scaxp ",
+    DiscordLink = "https://t.me/ney_marr77 ",
     DiscordIcon = "rbxassetid://73962170939481",
     DiscordTitle = "الگروب للسوالف",
     })
